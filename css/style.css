@@ -12,6 +12,7 @@ h1 {
   position: relative;
   background-image: url(../img/Для-сайта-11.jpg);
   background-size: 100%;
+  background-repeat: no-repeat;
   height: 920px;
 }
 .blockOne {
