@@ -33,12 +33,16 @@ h1 {
   background: linear-gradient(360deg, #efc549 0%, #fae2a4 100%);
   border-radius: 5px;
   border: #eab52b;
+
+}
+.blockOne button a{
   font-style: normal;
   font-weight: 400;
   font-size: 22px;
   line-height: 30px;
   color: #6b4129;
-}
+  text-decoration: none;
+} 
 .sectionOne .snow {
   position: absolute;
   width: 100%;
