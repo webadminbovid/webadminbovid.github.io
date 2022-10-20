@@ -309,16 +309,12 @@ border: none;
 .sectionOne {
   height: 189px;
 }
-
-/* .blockOne button {
+.blockOne button {
   width: 178px;
   height: 36px;
-  font-size: 16px;
-  line-height: 20px;
-} */
+} 
 .blockOne button a{
-  width: 178px;
-  height: 36px;
+ 
   font-size: 16px;
   line-height: 20px;
 } 
