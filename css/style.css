@@ -310,13 +310,18 @@ border: none;
   height: 189px;
 }
 
-.blockOne button {
+/* .blockOne button {
   width: 178px;
   height: 36px;
   font-size: 16px;
   line-height: 20px;
-}
-
+} */
+.blockOne button a{
+  width: 178px;
+  height: 36px;
+  font-size: 16px;
+  line-height: 20px;
+} 
 .sectionTwo .hotel {
   max-width: 285px;
   max-height: 362px;
@@ -408,4 +413,3 @@ border: none;
   color: #6b4129;
 }
 }
->>>>>>> 1c5a2cd083cb2bced8b74fd5a69dd76305714d24
